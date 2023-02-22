@@ -1,4 +1,4 @@
-package abstraction;
+package com.prowings.abstraction;
 
 public class AtmDemo extends ATM {
 
